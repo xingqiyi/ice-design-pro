@@ -1,7 +1,12 @@
 // <!-- auto generated navs start -->
 const autoGenHeaderNavs = [];
 
-const autoGenAsideNavs = [];
+const autoGenAsideNavs = [
+  { text: 'page21', to: '/page21', icon: 'nav-list' },
+  { text: 'page23', to: '/page23', icon: 'nav-list' },
+  { text: 'page24', to: '/page24', icon: 'nav-list' },
+];
+
 // <!-- auto generated navs end -->
 
 const customHeaderNavs = [
@@ -146,3 +151,4 @@ export default {
   headerNavs: transform([...autoGenHeaderNavs, ...customHeaderNavs]),
   asideNavs: transform([...autoGenAsideNavs, ...customAsideNavs]),
 };
+

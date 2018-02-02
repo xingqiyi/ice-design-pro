@@ -26,37 +26,37 @@
     {
       "page": "Dashboard",
       "path": "/",
-      "layout": "HeaderAsideFooterLayout",
+      "layout": "HeaderAsideFooterResponsiveLayout",
       "builtIn": true
     },
     {
       "page": "Charts",
       "path": "/chart/chart-list",
-      "layout": "HeaderAsideFooterLayout",
+      "layout": "HeaderAsideFooterResponsiveLayout",
       "builtIn": true
     },
     {
       "page": "Portlets",
       "path": "portlets/base",
-      "layout": "HeaderAsideFooterLayout",
+      "layout": "HeaderAsideFooterResponsiveLayout",
       "builtIn": true
     },
     {
       "page": "Terms",
       "path": "portlets/terms",
-      "layout": "HeaderAsideFooterLayout",
+      "layout": "HeaderAsideFooterResponsiveLayout",
       "builtIn": true
     },
     {
       "page": "ProgressInfo",
       "path": "portlets/progress",
-      "layout": "HeaderAsideFooterLayout",
+      "layout": "HeaderAsideFooterResponsiveLayout",
       "builtIn": true
     },
     {
       "page": "Result",
       "path": "result/success",
-      "layout": "HeaderAsideFooterLayout",
+      "layout": "HeaderAsideFooterResponsiveLayout",
       "builtIn": true
     },
     {
@@ -130,6 +130,31 @@
       "path": "exception/404",
       "layout": "HeaderAsideFooterLayout",
       "builtIn": true
+    },
+    {
+      "page": "Page20",
+      "path": "page20",
+      "layout": "FixedHeaderFooterResponsiveLayout"
+    },
+    {
+      "page": "Page21",
+      "path": "page21",
+      "layout": "HeaderAsideFooterResponsiveLayout"
+    },
+    {
+      "page": "Page22",
+      "path": "page22",
+      "layout": "HeaderFooterLayout"
+    },
+    {
+      "page": "Page23",
+      "path": "page23",
+      "layout": "HeaderAsideFooterResponsiveLayout"
+    },
+    {
+      "page": "Page24",
+      "path": "page24",
+      "layout": "HeaderAsideFooterResponsiveLayout"
     }
   ]
 }
