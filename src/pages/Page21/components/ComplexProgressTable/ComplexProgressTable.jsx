@@ -9,7 +9,8 @@ import EditDialog from './EditDialog';
 @DataBinder({
   tableData: {
     // 详细请求配置请参见 https://github.com/axios/axios
-    url: '/mock/complex-progress-table.json',
+    // url: '/mock/complex-progress-table.json',
+    url: 'complex-progress-table.json',
     params: {
       page: 1,
     },

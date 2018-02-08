@@ -20,6 +20,7 @@ export default class Page21 extends Component {
 
         <ComplexProgressTable />
 
+
       </div>
     );
   }

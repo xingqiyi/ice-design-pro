@@ -132,19 +132,9 @@
       "builtIn": true
     },
     {
-      "page": "Page20",
-      "path": "page20",
-      "layout": "FixedHeaderFooterResponsiveLayout"
-    },
-    {
       "page": "Page21",
       "path": "page21",
       "layout": "HeaderAsideFooterResponsiveLayout"
-    },
-    {
-      "page": "Page22",
-      "path": "page22",
-      "layout": "HeaderFooterLayout"
     },
     {
       "page": "Page23",
